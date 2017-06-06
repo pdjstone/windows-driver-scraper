@@ -1,0 +1,5 @@
+downloads/*
+!downloads/.placeholder
+extracted/*
+!extracted/.placeholder
+drivers.sqlite
